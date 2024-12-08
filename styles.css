@@ -55,4 +55,5 @@ body {
   background-color: var(--color-white);
   padding: 16px;
   border-radius: 10px;
+  text-align: center;
 }
