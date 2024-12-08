@@ -33,6 +33,26 @@
   box-sizing: border-box;
 }
 
+img {
+  max-width: 100%;
+}
+
 body {
   font-family: 'Outfit', Arial, Helvetica, sans-serif;
+  background-color: var(--color-slate-300);
+}
+
+.wrapper {
+  height: calc(100vh - 25px);
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-item {
+  width: 320px;
+  height: 500px;
+  background-color: var(--color-white);
+  padding: 16px;
+  border-radius: 10px;
 }
