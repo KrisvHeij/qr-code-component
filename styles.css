@@ -57,3 +57,22 @@ body {
   border-radius: 10px;
   text-align: center;
 }
+
+.flex-item img {
+  border-radius: 10px;
+  margin-bottom: 16px;
+}
+
+.flex-item h1 {
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 16px;
+}
+
+.flex-item p {
+  font-size: 15px;
+  line-height: 1.4;
+  letter-spacing: 0.2px;
+  margin-bottom: 24px;
+}
