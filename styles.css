@@ -53,21 +53,21 @@ body {
   width: 320px;
   height: 500px;
   background-color: var(--color-white);
-  padding: 16px;
+  padding: var(--spacing-200);
   border-radius: 10px;
   text-align: center;
 }
 
 .flex-item img {
   border-radius: 10px;
-  margin-bottom: 16px;
+  margin-bottom: var(--spacing-200);
 }
 
 .flex-item h1 {
   font-size: 22px;
   font-weight: bold;
   line-height: 1.2;
-  margin-bottom: 16px;
+  margin-bottom: var(--spacing-200);
   color: var(--color-slate-900);
 }
 
@@ -75,6 +75,6 @@ body {
   font-size: 15px;
   line-height: 1.4;
   letter-spacing: 0.2px;
-  margin-bottom: 24px;
+  margin-bottom: var(--spacing-300);
   color: var(--color-slate-500);
 }
