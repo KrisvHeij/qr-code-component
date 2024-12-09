@@ -68,6 +68,7 @@ body {
   font-weight: bold;
   line-height: 1.2;
   margin-bottom: 16px;
+  color: var(--color-slate-900);
 }
 
 .flex-item p {
@@ -75,4 +76,5 @@ body {
   line-height: 1.4;
   letter-spacing: 0.2px;
   margin-bottom: 24px;
+  color: var(--color-slate-500);
 }
